@@ -48,7 +48,7 @@ Before you begin, ensure you have the following requirements installed on your m
    ```
 
 6. **Open Your Browser:**
-   Visit [http://localhost:5000](http://localhost:5000) in your web browser to use the To-Do List WebApp.
+   Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your web browser to use the To-Do List WebApp.
 
 ## Project Structure
 
