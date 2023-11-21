@@ -41,6 +41,7 @@ Before you begin, ensure you have the following requirements installed on your m
 5. **Run the Application:**
    ```bash
    python run.py
+   python3 run.py run
    ```
 
 6. **Open Your Browser:**
