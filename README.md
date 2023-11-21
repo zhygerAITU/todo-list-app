@@ -1,16 +1,17 @@
-# Just Do It - To-Do List WebApp
+```markdown
+# Just Do It - To-Do List WebApp 📝✨
 
 Just Do It is a simple To-Do List WebApp built with Flask, HTML, CSS, and JavaScript.
 
-## Prerequisites
+## Prerequisites 🛠️
 
 Before you begin, ensure you have the following requirements installed on your machine:
 
-- Python (version 3.7 or higher)
-- pip (Python package installer)
-- Git
+- Python (version 3.7 or higher) 🐍
+- pip (Python package installer) 📦
+- Git 📜
 
-## Getting Started
+## Getting Started 🚀
 
 1. **Clone the Repository:**
    ```bash
@@ -50,7 +51,7 @@ Before you begin, ensure you have the following requirements installed on your m
 6. **Open Your Browser:**
    Visit [http://localhost:5000](http://localhost:5000) in your web browser to use the To-Do List WebApp.
 
-## Project Structure
+## Project Structure 📁
 
 - **`app/`**: Contains the Flask application code.
   - **`templates/`**: HTML templates.
@@ -60,4 +61,3 @@ Before you begin, ensure you have the following requirements installed on your m
   - **`routes.py`**: Defines the application routes.
 
 - **`run.py`**: Script to initialize the Flask app, create the database tables, and run the development server.
-
