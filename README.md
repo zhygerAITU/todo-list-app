@@ -14,7 +14,7 @@ Before you begin, ensure you have the following requirements installed on your m
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/just-do-it.git
+   git clone https://github.com/zhygerAITU/todo-list-app.git
    cd just-do-it
    ```
 
